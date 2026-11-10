@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <title>Dogs Wonderland — Kyneton Farm &amp; Retreat</title>
+    <meta name="description" content="Dogs Wonderland is a premium dog boarding retreat on 2.25 hectares of lakeside paradise in Kyneton, Victoria. Trusted care by Dianne with 10 years experience." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,300;0,9..144,400;0,9..144,600;0,9..144,700;1,9..144,300;1,9..144,400&family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;1,9..40,300;1,9..40,400&display=swap" rel="stylesheet" />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+    <!-- Static copy of the booking form so Netlify Forms detects its fields at deploy time -->
+    <form name="booking" data-netlify="true" netlify-honeypot="bot-field" hidden>
+      <input name="bot-field" />
+      <input name="ownerName" /><input name="ownerEmail" /><input name="ownerPhone" />
+      <input name="dogName" /><input name="dogBreed" /><input name="dogAge" />
+      <input name="dogSize" /><input name="isReactive" />
+      <input name="checkIn" /><input name="checkOut" />
+      <textarea name="message"></textarea>
+    </form>
+  </body>
+</html>

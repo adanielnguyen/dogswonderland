@@ -16,7 +16,7 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-3 mb-4">
               <img
-                src="/manus-storage/dogs_wonderland_logo_a9c9f132.jpg"
+                src="/images/dogs_wonderland_logo_a9c9f132.jpg"
                 alt="Dogs Wonderland Logo"
                 className="w-14 h-14 rounded-full object-cover border-2"
                 style={{ borderColor: "oklch(0.72 0.14 72 / 0.5)" }}

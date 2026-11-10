@@ -41,7 +41,7 @@ export default function Navbar() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-3 group" style={{ textDecoration: "none" }}>
             <img
-              src="/manus-storage/dogs_wonderland_logo_a9c9f132.jpg"
+              src="/images/dogs_wonderland_logo_a9c9f132.jpg"
               alt="Dogs Wonderland Logo"
               className="w-12 h-12 md:w-14 md:h-14 rounded-full object-cover border-2 transition-transform duration-200 group-hover:scale-105"
               style={{ borderColor: "oklch(0.72 0.14 72)" }}

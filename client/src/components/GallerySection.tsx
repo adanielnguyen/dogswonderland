@@ -17,7 +17,7 @@ export default function GallerySection() {
       caption: "Open paddock freedom",
     },
     {
-      src: "/manus-storage/lake_photo_be0cd9be.jpg",
+      src: "/images/lake_photo_be0cd9be.jpg",
       alt: "The stunning natural lake at Dogs Wonderland in Kyneton — winter morning",
       caption: "The lake in winter light",
     },
@@ -32,12 +32,12 @@ export default function GallerySection() {
       caption: "Dianne & her beloved dogs",
     },
     {
-      src: "/manus-storage/farm_aerial_lake_33d62a8b.jpg",
+      src: "/images/farm_aerial_lake_33d62a8b.jpg",
       alt: "Aerial view of the stunning lake and property at Dogs Wonderland, Kyneton",
       caption: "2.25 hectares from above",
     },
     {
-      src: "/manus-storage/farm_gumtree_creek_e4e45e2e.jpg",
+      src: "/images/farm_gumtree_creek_e4e45e2e.jpg",
       alt: "Gum tree beside the creek at Dogs Wonderland farm",
       caption: "Creekside gum trees",
     },
@@ -52,7 +52,7 @@ export default function GallerySection() {
       caption: "Golden autumn companions",
     },
     {
-      src: "/manus-storage/farm_boardwalk_lilypads_dad2aee4.jpg",
+      src: "/images/farm_boardwalk_lilypads_dad2aee4.jpg",
       alt: "Wooden boardwalk over lily pads at Dogs Wonderland lake",
       caption: "The lily pad boardwalk",
     },
